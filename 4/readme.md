@@ -1,3 +1,3 @@
-NIM : 1811500050
-Nama : Novita
-Kelompok : TI6A
+NIM : 1811500050 <br>
+Nama : Novita <br>
+Kelompok : TI6A <br>
